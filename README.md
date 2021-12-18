@@ -1,7 +1,14 @@
-# Getting Started with Create React App
+## 1. For Chrome 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+from ``` Chrome Web Store ```;
 
+or download ```extension.zip``` from last releases, unzip, open chrome://extensions url and turn on developer mode from top left and then click; on Load Unpacked and select the extracted folder for use
+or build it with npm i && npm run build:extension and load the extension's folder ./build/extension;
+or run it in dev mode with npm i && npm start and load the extension's folder ./dev.
+
+## Go to thisk and add bookmark 
+
+```window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()```
 ## Available Scripts
 
 In the project directory, you can run:
